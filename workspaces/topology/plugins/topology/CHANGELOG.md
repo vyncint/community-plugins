@@ -1,5 +1,11 @@
 # @backstage-community/plugin-topology
 
+## 2.15.1
+
+### Patch Changes
+
+- 6622075: Updated dependency `@playwright/test` to `1.61.1`.
+
 ## 2.15.0
 
 ### Minor Changes
